@@ -19,6 +19,8 @@ I am a Frontend Developer. I was born in Novotroitsk, but currently I live in Ch
 
 - :zap: In my free time, I like to play video games, read tech articles and watch tech videos.
 
+- :basketball: Love to play basketball.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,5 +36,9 @@ I am a Frontend Developer. I was born in Novotroitsk, but currently I live in Ch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" title="GitLab"/>
  </div>
 
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=puzanovkirill&theme=dark&background=22272e)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puzanovkirill&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
