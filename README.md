@@ -34,6 +34,7 @@ I am a Frontend Developer. I was born in Novotroitsk, but currently I live in Ch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" title="GitLab"/>
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" height="50" title="Tailwind"/>
  </div>
 
 ---
