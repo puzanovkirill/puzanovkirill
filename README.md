@@ -23,7 +23,7 @@ I am a Frontend Developer. I was born in Novotroitsk, but currently I live in Ch
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript"/>
@@ -39,7 +39,5 @@ I am a Frontend Developer. I was born in Novotroitsk, but currently I live in Ch
 
 ---
 
-### :fire: My Stats :
-<img src="https://myreadme.vercel.app/api/embed/puzanovkirill?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+### 🔥 My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puzanovkirill&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
