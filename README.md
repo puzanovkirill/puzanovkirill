@@ -40,6 +40,6 @@ I am a Frontend Developer. I was born in Novotroitsk, but currently I live in Ch
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=puzanovkirill&theme=transparent)](https://git.io/streak-stats)
+<img src="https://myreadme.vercel.app/api/embed/puzanovkirill?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puzanovkirill&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
