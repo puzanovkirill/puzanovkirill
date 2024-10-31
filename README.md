@@ -10,37 +10,22 @@
 </div>
 </div>
 
-### <img src="./cat.gif" width="50"> About Me :
+### 👋 Hi, I’m a Frontend Developer!
 
+A developer inspired by the endless potential of technology! Originally from Novotroitsk and now based in Chelyabinsk, I'm driven by a passion for building powerful web applications that make life easier for users. Currently, I'm working at [3divi.ai](https://3divi.ai), where I dedicate my knowledge and energy to crafting interfaces that come alive in users' hands.
 
-I am a Frontend Developer. I was born in Novotroitsk, but currently I live in Chelyabinsk.
+### 💡 What I Do
+Frontend development is my core expertise, where I focus on creating seamless, interactive, and engaging user experiences. I'm constantly exploring new libraries, frameworks, and UI trends to keep my projects fresh and effective. From optimizing performance to implementing the latest UX patterns, I enjoy finding innovative ways to enhance each project.
 
-- :telescope: I’m working as a Frontend Developer, but sometimes can write backend with Python. I'm contributing to frontend and backend for building web applications (currently at  <a href="http://3divi.ai">3divi.ai</a>).
+### 🎮 When I'm Not Coding...
+I’m all about active pursuits and creative outlets:
+- 🏀 **On the basketball court** — I recharge, push my limits, and find inspiration for new achievements.
+- 🏋️‍♂️ **In the gym** — lifting weights, setting new personal records, and challenging myself to get stronger.
+- 🎶 **Producing beats** — blending sounds and experimenting with rhythms to create something unique.
+- 🎮 **In the world of video games** — building strategy and reaction skills (and just having fun).
+- 📚 **Exploring new knowledge** — reading articles and watching videos on technology, trends, and the latest in IT.
 
-- :zap: In my free time, I like to play video games, read tech articles and watch tech videos.
-
-- :basketball: Love to play basketball.
-
----
-
-### 🛠️ Languages and Tools :
-<div>
-  <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" height="50" title="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" title="React"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="50" title="Redux Tool Kit"/> 
-  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" height="50" title="Chakra UI"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" title="GraphQL"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" height="50" title="Apollo Client"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" title="CSS"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" title="GitLab"/>
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.0e3166482a69f6e0f869a048cf5c06bb695e2577.svg" height="50" title="Tailwind"/>
- </div>
-
----
+Every day, I strive to improve, grow, and create. If you're looking to collaborate on something inspiring or just chat about the tech world, let’s connect!
 
 ### 🔥 My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puzanovkirill&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
