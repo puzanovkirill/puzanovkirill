@@ -1,9 +1,7 @@
-<!-- Шапка — широкая картинка -->
 <div align="center">
-  <img src="./horizontal.jpeg" width="100%" alt="silhouette overlooking the path" />
+  <img src="./wide-horizontal.jpeg" width="100%" alt="silhouette overlooking the path" />
 </div>
 
-<!-- Бейджи -->
 <div align="center">
   <img src="https://img.shields.io/badge/light_theme-enjoyer-fff?style=flat-square&logo=visualstudiocode&logoColor=blue" />
   <img src="https://img.shields.io/badge/building-for_the_web-blue?style=flat-square&logo=webcomponents.org&logoColor=white" />
@@ -13,7 +11,6 @@
 
 <br/>
 
-<!-- Вертикальное изображение справа -->
 <img src="./vertical.jpg" width="356" align="right" alt="figure watching battlefield" />
 
 ### 👋 hey, i'm kirill
