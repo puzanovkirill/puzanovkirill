@@ -1,16 +1,14 @@
 <div align="center">
-  <img src="./wide-horizontal.jpeg" width="100%" alt="silhouette overlooking the path" />
+<img src="./wide-horizontal.jpeg" width="100%" alt="silhouette overlooking the path" />
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/light_theme-enjoyer-fff?style=flat-square&logo=visualstudiocode&logoColor=blue" />
-  <img src="https://img.shields.io/badge/building-for_the_web-blue?style=flat-square&logo=webcomponents.org&logoColor=white" />
-  <img src="https://img.shields.io/badge/always-learning-green?style=flat-square&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/status-work_in_progress-yellow?style=flat-square&logo=git&logoColor=black" />
-</div>
-
 <br/>
-
+<div align="center">
+<img src="https://img.shields.io/badge/light_theme-enjoyer-fff?style=flat-square&logo=visualstudiocode&logoColor=blue" />
+<img src="https://img.shields.io/badge/building-for_the_web-blue?style=flat-square&logo=webcomponents.org&logoColor=white" />
+<img src="https://img.shields.io/badge/always-learning-green?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/status-work_in_progress-yellow?style=flat-square&logo=git&logoColor=black" />
+</div>
+<br/>
 <img src="./vertical.jpg" width="356" align="right" alt="figure watching battlefield" />
 
 ### 👋 hey, i'm kirill
@@ -18,10 +16,16 @@
 frontend developer focused on clarity, structure, and stability.  
 i build systems that stay readable, fixable, and kind to the next person.
 
-mostly working with the web.  
-currently [@3divi.ai](https://3divi.ai) — building developer tools and SDKs.
+currently building developer tools and business-facing systems -  
+tools for those who build, platforms for those who operate.
 
-i write about bugs, tools, and things that go wrong — and how to make them right.  
+mostly working with the web.  
+primarily frontend, but i cross layers when needed - backend, infra, architecture.
+
+i use AI in day-to-day development - to think faster, write cleaner, and explore deeper.  
+tools assist, but intent remains human.
+
+i explore how things break - and how to rebuild them better.  
 sometimes with humor, always with intent.
 
 ---
