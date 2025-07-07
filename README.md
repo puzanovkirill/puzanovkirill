@@ -1,54 +1,65 @@
-<div id="header" align="center">
-  <img src="./knight.gif" width="200"/>
-  
-  <div id="badges">
-    <a href="https://twitter.com/kirillpuzanov">
-      <img src="https://img.shields.io/twitter/follow/:kirillpuzanov" alt="Twitter Badge"/>
-    </a>
-  </div>
-
-<div style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Light_Theme-Enjoyer-fff?style=flat-square&logo=visualstudiocode&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Building-for_the_Web-blue?style=flat-square&logo=webcomponents.org&logoColor=white" />
-    <img src="https://img.shields.io/badge/Always-Learning-green?style=flat-square&logo=bookstack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Work-in_Progress-yellow?style=flat-square&logo=git&logoColor=black" />
-</div>
+<!-- Шапка — широкая картинка -->
+<div align="center">
+  <img src="./horizontal.jpeg" width="100%" alt="silhouette overlooking the path" />
 </div>
 
----
+<!-- Бейджи -->
+<div align="center">
+  <img src="https://img.shields.io/badge/light_theme-enjoyer-fff?style=flat-square&logo=visualstudiocode&logoColor=blue" />
+  <img src="https://img.shields.io/badge/building-for_the_web-blue?style=flat-square&logo=webcomponents.org&logoColor=white" />
+  <img src="https://img.shields.io/badge/always-learning-green?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-work_in_progress-yellow?style=flat-square&logo=git&logoColor=black" />
+</div>
 
-### 👋 Hi, I’m Kirill
+<br/>
 
-A developer who enjoys building stuff and sometimes even finishing it.
+<!-- Вертикальное изображение справа -->
+<img src="./vertical.jpg" width="356" align="right" alt="figure watching battlefield" />
 
-Writing code mostly for the web.  
-Working at [3divi.ai](https://3divi.ai), building SDKs and developer tools.  
-Always curious, occasionally productive.
+### 👋 hey, i'm kirill
 
----
+frontend developer focused on clarity, structure, and stability.  
+i build systems that stay readable, fixable, and kind to the next person.
 
-### 💡 What I like to do:
-- Making interfaces less annoying  
-- Exploring how things work under the hood  
-- Writing code that doesn't scare me (or others)  
-- Learning new tools, breaking them, and fixing them  
+mostly working with the web.  
+currently [@3divi.ai](https://3divi.ai) — building developer tools and SDKs.
 
----
-
-### 🛠️ Also into:
-- 🏀 Shooting hoops  
-- 🏋️‍♂️ Lifting things  
-- 🎵 Making beats nobody hears  
-- 🎮 Gaming for fun, not for ranking  
-- 📖 Reading random dev stuff at 2 AM  
+i write about bugs, tools, and things that go wrong — and how to make them right.  
+sometimes with humor, always with intent.
 
 ---
 
-Always building, always learning, sometimes shipping.
+### 🧠 how i think
+
+- good code is quiet  
+- interfaces should explain themselves  
+- bugs are signals, not shame  
+- backwards compatibility is a feature  
+- stability is the real flex  
+- growth is the only constant
 
 ---
 
-### 📊 My GitHub Stats:
+### 📌 what i do
+
+- design frontend architecture for change and clarity  
+- share lessons from debugging and upgrades  
+- explore tools that make dev work smoother  
+- write for those who are figuring it out too
+
+---
+
+### 🛠️ tech stack
+
+TypeScript, React, Next.js, RTK  
+TailwindCSS, Chakra UI, feature-sliced design
+
+---
+
+### 📊 github stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puzanovkirill&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<sub><i>this readme was written in light theme. deal with it.</i></sub>
+---
+
+<sub><i>this profile was written in light mode. probably at night.</i></sub>
